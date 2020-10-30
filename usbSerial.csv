@@ -1,0 +1,15 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"R1";"R_0603_1608Metric";1;"22.1K";;;
+2;"C2";"C_0603_1608Metric";1;".1uF";;;
+3;"C1";"C_0603_1608Metric";1;"4.7Uf";;;
+4;"C3,C4";"C_0603_1608Metric";2;"1uF";;;
+5;"D4";"LED_0603_1608Metric";1;"LED";;;
+6;"J2";"PinHeader_1x04_P2.54mm_Vertical";1;"Conn_01x04_Male";;;
+7;"J3";"PinHeader_1x05_P2.54mm_Vertical";1;"Conn_01x05_Male";;;
+8;"R2";"R_0603_1608Metric";1;"47.5K";;;
+9;"R3,R5";"R_0603_1608Metric";2;"2K";;;
+10;"R4";"R_0603_1608Metric";1;"10K";;;
+11;"U1";"QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm";1;"CP2102N-A01-GQFN28";;;
+12;"U2";"HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.4x3.2mm";1;"BD33GA3WEFJ-E2";;;
+13;"D1";"SOT-143";1;"SP0503BAHT";;;
+14;"J1";"USB_Micro-B_Amphenol_10118194-0011LF_Horizontal";1;"USB_B_Micro";;;
